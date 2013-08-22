@@ -1,4 +1,4 @@
 germinator
 ==========
 
-`wget -O - https://raw.github.com/johnlcox/germinator/master/germinate.sh | bash`
+Renamed and moved to https://github.com/uncrate/uncrate
